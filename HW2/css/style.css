@@ -1,0 +1,95 @@
+
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.header {
+margin-top: 61px;
+margin-bottom: 45px;
+}
+
+.blue {
+    color:  #4bcaff;
+}
+.header-link {
+   font-family: 'Myriad Pro', sans-serif;
+color:  #000000;
+font-size: 80px;
+font-weight: 400;
+text-decoration: none;
+}
+
+.header-menu-link {
+    display: inline-block;
+    font-family: 'Myriad Pro', sans-serif;
+    color:  #ffffff;
+    font-size: 24px;
+    font-weight: 400;    
+    padding-left: 42px;
+    padding-right: 42px;
+    text-transform: capitalize;
+    padding-top: 26px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.header-menu-link:hover{
+    background-color:  #222f3a;
+    border-left: 1px solid #818181;
+    border-right: 1px solid #818181;
+}
+
+.header-menu {
+    background-color:  #35444f;
+    height: 69px;
+    padding-left: 160px;
+    margin-bottom: 51px;
+}
+
+
+.content {
+    
+}
+
+.vertical-menu {
+    display: inline-block;
+    border: 1px solid #32424e;
+    width: 26%;
+    box-sizing: border-box;
+    float: left;
+}
+
+.vertical-menu-item {
+    display: block;
+    font-family: 'Myriad Pro', sans-serif;;
+color:  #485863;
+font-size: 27px;
+font-weight: 700;  
+    text-decoration: none;
+    text-transform: capitalize;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 43px;
+}
+.vertical-menu-item:hover{
+   color:  #000000; 
+    padding-left: 69px;
+    background-color: #dcdcdc;
+}
+
+.right-sidebar {
+    display: inline-block;
+    float: right;
+    width: 69%
+}
+
+.main-img {
+    border: 1px solid;
+        height: 529px;
+}
+
+.img1 {
+    display: table-cell;
+   vertical-align: middle;
+   text-align: center;
+}
