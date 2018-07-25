@@ -1,0 +1,113 @@
+
+body{
+    height: 1626px;
+    width: 1280px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+}
+.content {   
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.top-link{
+color: rgb(22, 160, 133);
+font-size: 18px;
+font-weight: 900;
+display: inline-block;
+text-transform: uppercase; 
+padding-right: 65px;
+margin-top: 32px;
+margin-bottom: 35px;
+    text-decoration: none;
+         letter-spacing:2px;
+}
+
+.top-img{
+   height: 790px;
+    width: 1280px; 
+    background-image: url(/img/top-img.jpg)
+}
+.description-text{
+   
+    
+    
+}
+.content-button{
+    
+}
+
+.content {   
+    margin: 0 auto;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #373737;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    text-align: center;
+   padding-top: 56px;
+    margin-bottom: 34px;
+     letter-spacing:2px;
+    
+}
+
+.description-text-paragraph {
+    margin-bottom: 41px;
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        font-family: 'Roboto', sans-serif;
+color:  #373737;
+font-size: 16px;/* Приближение из-за подстановки шрифтов */
+font-weight: 900;
+    letter-spacing:2px;
+    line-height: 26px;
+}
+
+
+.bg-content {
+    background-color: #f5f6f7;
+}
+
+.content-button-link {
+    font-family: 'GothamRounded', sans-serif;
+color:  #ffffff;
+font-size: 12px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+
+text-align: center;
+    background-color:  #16a085;
+    display: inline-block;
+    width: 192px;
+height: 3px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    letter-spacing:2px;
+    margin-bottom: 94px;
+}
+
+.footer-text {
+    font-family: Roboto;
+color:  #373737;
+font-size: 16px;/* Приближение из-за подстановки шрифтов */
+font-weight: 900;
+text-align: left;
+    float: right;
+    letter-spacing:2px;
+}
+
+.footer {
+    height: 108;
+    padding: 29px 104px 45px;
+}
