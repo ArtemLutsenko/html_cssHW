@@ -1,0 +1,325 @@
+.wraper {
+    background-image: url(../img/bgi.jpg);
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.header-logo {
+    font-family: Verdana;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    display: inline-block;
+    text-transform: uppercase;
+    flex-grow: 3;
+    text-decoration: none;
+    transition: all 5s linear;
+}
+
+.header-logo:hover {
+    color: #3cb878;
+
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 0;
+    width: 100%;
+    height: 34px;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 0 auto;
+}
+
+.header-entrance {
+    font-family: Verdana;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    float: right;
+}
+
+.header-link {
+    font-family: Verdana;
+    color: #3cb878;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+}
+
+.header-sprites {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.header-content {
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.header-sprites-caledar-link {
+    background-image: url(../img/sprite.png);
+    background-position: -55px 0px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 28px;
+}
+
+.header-sprites-caledar-link:hover {
+    background-position: -55px -19px;
+}
+
+.header-sprites-forum-link {
+    background-image: url(../img/sprite.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 28px;
+    height: 20px;
+    margin-right: 28px;
+}
+
+.header-sprites-forum-link:hover {
+    background-position: -28px 0px;
+}
+
+.header-sprites-journey-link {
+    background-image: url(../img/sprite.png);
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.header-sprites-journey-link:hover {
+    background-position: -20px -20px;
+}
+
+.header-logo-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header-logo-link:hover {
+    color: #3cb878;
+}
+
+.form {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -292px;
+    margin-left: -222px;
+    width: 324px;
+    height: 524px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 60px;
+}
+
+.green-square {
+    width: 18px;
+    height: 18px;
+    background-color: #3cb878;
+    position: absolute;
+    left: 0px;
+}
+
+.form-signup {
+    font-family: Verdana;
+    color: #434343;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    display: inline-block;
+}
+
+.form-login {
+    font-family: Verdana;
+    color: #3cb878;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.form-first-colunm {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.facebook {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 46px;
+    width: 137px;
+    background-color: #264b96;
+    border-radius: 3px;
+    margin-right: 6px;
+    font-family: Verdana;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.google {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 46px;
+    width: 137px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #c3412c;
+    border-radius: 3px;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-family: Verdana;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form-f {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 25px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: lowercase
+}
+
+.form-g {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    display: inline-block;
+    text-transform: capitalize;
+}
+
+.blue-line {
+    width: 1px;
+    height: 28px;
+    display: inline-block;
+    background-color: #1e4288;    
+}
+
+.form-button {
+    display: flex;
+    justify-content: space-between;
+}
+
+.orange-line {
+    width: 1px;
+    height: 28px;
+    display: inline-block;
+    background-color: #b03924;
+}
+
+.google-final {
+    padding: 0 17px;
+    display: inline-block;
+}
+
+.form-or {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 33px;
+    margin-bottom: 18px;
+    align-items: center;
+}
+
+.form-or-text {
+    font-family: Verdana;
+    color: #848484;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.form-or-line {
+    width: 135px;
+    height: 1px;
+    background-color: #eaeaea;
+}
+
+.form-input {
+    height: 44px;
+    width: 301px;
+    font-family: Verdana;
+    color: #434343;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #eaeaea;
+    padding-left: 19px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+.form-input:focus {
+    outline: none;
+    box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.21);
+
+}
+
+.form-input::placeholder {
+    color: #bebebe;
+}
+
+.form-button-big {
+    height: 31px;
+    width: 322px;
+    padding-top: 15px;
+    margin-top: 28px;
+    border-radius: 5px;
+    display: block;
+    background-color: #3cb878;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form-checkbox {
+    display: inline-block;
+}
+
+.form-agreement {
+    display: inline-block;
+    font-family: Verdana;
+    color: #434343;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 13px;
+    margin-top: 15px;
+}
+
+.form-agreement-link {
+    display: inline-block;
+    font-family: Verdana;
+    color: #3cb878;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 4px;
+    text-decoration: none;
+}
