@@ -1,0 +1,162 @@
+
+.table {
+    border: 24px solid #374765;
+    border-collapse: collapse;
+    margin: auto;
+    width:50%;
+    height:100%;
+}
+
+td{
+   font-family: Arimo;
+color:  #484848;
+font-size: 16px;/* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+text-align: center; 
+border-left: 3px solid #dbdbdb;
+    height: 69px;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+
+.first-words {
+    font-family: 'Arimo', sans-serif;
+color:  #484848;
+font-size: 18px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+text-align: center;
+    display: block;
+    margin-top: 54px;
+}
+
+.second-words {
+    font-family: 'Arimo', sans-serif;
+color:  #484848;
+font-size: 30px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+text-align: center;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 56px;
+    margin-right: 49px;
+    margin-left: 49px;
+    min-width: 220px;
+}
+
+.standart {
+    background-color:  #89c331;
+min-width: 277px;
+min-height: 70px;
+    font-family: 'Arimo', sans-serif;
+color:  #ffffff;
+font-size: 24px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    border: 0;
+}
+
+.ultimate {
+    background-color:  #f04a56;
+min-width: 277px;
+height: 71px;
+    font-family: 'Arimo', sans-serif;
+color:  #ffffff;
+font-size: 30px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+text-align: center;
+        vertical-align: middle;
+    text-transform: uppercase;
+    border: 0;
+}
+
+.premium {
+    background-color:  #20807c;
+min-width: 277px;
+height: 70px;
+    font-family: Arimo;
+color:  #ffffff;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+    text-transform: uppercase;
+    border: 0;
+}
+.even-column{
+    background-color: #e4e4e4;
+}
+.odd-column{    
+    background-color: #f2f2f2;
+}
+.button{
+    display: inline-block;
+    font-family: Arimo;
+color:  #ffffff;
+font-size: 16px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+vertical-align: middle;/* Приближение из-за подстановки шрифтов */
+text-align: center;
+  border-radius: 5px;
+width: 192px;
+height: 30px;
+    padding-top: 19px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.color-brown{
+    background-color: #484848;
+}
+.color-brown:hover{
+    color: yellow;
+}
+.color-lightgreen{
+    background-color:#89c331;
+}
+.color-lightgreen:hover{
+    color: yellow;
+}
+.color-red{
+    background-color: #f04a56;
+}
+.color-red:hover{
+    color: yellow;
+}
+.color-darckgreen{
+    background-color: #20807c;
+}
+.color-darckgreen:hover{
+    color: yellow;
+}
+.big-price {
+    font-family: Arimo;
+color:  #484848;
+font-size: 60px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+text-align: left;
+    display: inline-block;
+}
+
+.midle-price {
+    font-family: Arimo;
+color:  #484848;
+font-size: 24px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+    display: block;
+    text-align: left;
+}
+
+.permonth {
+   font-family: Arimo;
+color:  #484848;
+font-size: 18px;/* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+
+}
+
+.price-text {
+    display: inline-block;
+}
