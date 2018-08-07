@@ -1,0 +1,36 @@
+﻿td{
+    width: 25px;
+    height: 50px;
+    border: 5px solid grey;
+    
+}
+.table{
+    border: 10px solid grey;
+}
+
+
+.yellov {
+    background-color: yellow;
+   
+}
+
+.chs1 {
+    height: 100px;
+}
+
+.blue {
+   
+    background-color: darkblue;
+}
+
+.black {
+    background-color: black
+}
+
+.height100 {
+     height: 100px;
+}
+
+.height200 {
+     height: 200px;
+}
