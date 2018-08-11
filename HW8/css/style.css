@@ -216,3 +216,8 @@ height: 0px;
 body {
     
 }
+
+.wraper {
+    width: 1400px;
+    margin: 0 auto
+}
