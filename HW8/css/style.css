@@ -1,0 +1,218 @@
+﻿.header {       
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.wrapper {
+    padding-top: 530px;
+    height: 370px;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.header-company-name {
+    margin-bottom: 16px;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 48px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.header-description {
+    margin-bottom: 28px;
+    font-family: Lato;
+    color: #ffffff;
+    font-size: 18px;
+    /* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+}
+
+.header-slogan {
+    width: 836px;
+    padding-left:;
+    display: inline-block;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 54px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+    background: rgb(0, 0, 0, 0.3);
+}
+
+.orange {
+    color: #f1ad1d;
+}
+
+.header-white-sq {
+    width: 123px;
+    padding-top: 48px;
+    padding-bottom: 42px;
+    padding-left: 29px;
+    display: inline-block;
+    background-color: white;
+
+}
+
+.header-padding {
+    padding-left:26px;
+    
+}
+
+.wrapper-content {
+        width: 1280px;
+    margin: 0 auto;
+    height: 372px;
+    
+}
+
+.content-h2 {
+    padding-top: 112px;
+    font-family: Montserrat;
+color:  #333333;
+font-size: 22px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+line-height: 18px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.content-text {
+    margin-top: 35px;
+    font-family: Lato;
+color:  #4d4943;
+font-size: 17px;
+font-weight: 400;
+text-align: center;
+    margin-bottom: 52px;
+}
+
+.content-line {  
+width: 60px;
+height: 0px;
+    border: 1px solid #f1ad1d;
+}
+
+.content-h2-withbg {
+    padding-top: 150px;
+    margin-bottom: 60px;
+font-family: Montserrat;
+color:  #ffffff;
+font-size: 22px;/* Приближение из-за подстановки шрифтов */
+font-weight: 700;
+text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.bg-speed {
+    background-image: url(../img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   background-attachment: fixed;
+        
+}
+
+.orange-text {
+    color: #f1ad1d;
+}
+
+.bg-forest {
+    background-image: url(../img/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 475px;
+    background-attachment: fixed;
+}
+
+.logos {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 58px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+.logo1 {
+   width: 207px;
+   height: 28px; 
+    background-image: url(../img/logo-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo2 {
+    width: 135px;
+   height: 49px; 
+    background-image: url(../img/logo-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo3 {
+    width: 172px;
+   height: 42px; 
+    background-image: url(../img/logo-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo4 {
+    width: 141px;
+   height: 52px; 
+    background-image: url(../img/logo-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-bridge {
+    height: 485px;   
+    background-image: url(../img/bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+    background-attachment: fixed;
+}
+
+.final-content-text {
+    margin-top: 60px;
+    margin-bottom: 44px;
+    font-family: OpenSans;
+color:  #ffffff;
+font-size: 18px;/* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+line-height: 30px;/* Приближение из-за подстановки шрифтов */
+text-align: center;
+}
+
+.content-text-link {
+    text-decoration: none;
+}
+
+.white-line {
+    width: 281px;
+height: 0px;
+    border: 1px solid #ffffff;
+    margin: 0 auto;
+}
+
+
+body {
+    
+}
